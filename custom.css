@@ -1,0 +1,140 @@
+.navbar {
+    background-color: #54595E;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+    background-color: #47525E;
+}
+
+.navbar-nav li .nav-link {
+    color: white;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+header {
+    background-color: #54595E;
+}
+
+header h1 {
+    color: #FFFBF6;
+    font-family: Source Serif Pro;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+
+footer {
+    padding: 1em;
+    background-color: #54595E;
+}
+
+footer p {
+    color: white;
+}
+
+footer .footer-parem img {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.footer-vasak {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.footer-parem {
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.pilt-ja-tekst {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    margin: 5% 13%;
+}
+
+.pilt-ja-tekst p {
+    color: white;
+}
+
+h2 {
+    color: #54595E;
+    text-align: center;
+    margin-top: 30px;
+    font-family: Source Serif Pro;
+    font-weight: 800;
+}
+
+.media img {
+    width: 17.5em;
+    height: 17.5em;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    margin: 25px 75px 15px 75px;
+    height: 322px;
+}
+
+.poster {
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tutvustus {
+    width: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid rgb(100, 100, 100);
+    border-radius: 2%; 
+}
+
+.info {
+    width: 25%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid rgb(100, 100, 100);
+    border-radius: 2%; 
+}
+
+.tutvustus p, .info p {
+    color:rgb(100, 100, 100);
+    padding: 10px;
+    line-height: 2.4;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    margin: 75px;
+    
+}
+
+.container3 {
+    margin-left: 60px;
+}
+
+.checked {
+    color: orange;
+  }
